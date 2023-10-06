@@ -33,7 +33,6 @@
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable",
     "pre-commit": "lint-staged",
-    "postinstall": "husky install",
     "semantic-release": "semantic-release"
   },
   "private": false,
